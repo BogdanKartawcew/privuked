@@ -1,3 +1,15 @@
+// ==UserScript==
+// @name         Назва скрипту
+// @namespace    https://github.com/BogdanKartawcew/privuked
+// @version      1.0
+// @description  Опис того, що робить скрипт
+// @author       Твоє ім'я
+// @match        *://my.e-consul.gov.ua/*
+// @grant        none
+// @downloadURL  https://BogdanKartawcew.github.io/privuked/codeitself.js
+// @updateURL    https://BogdanKartawcew.github.io/privuked/codeitself.js
+// ==/UserScript==
+
 (function() {
     'use strict';
 
